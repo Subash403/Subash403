@@ -9,7 +9,11 @@ Hello! I'm Subash Mahendran, an aspiring AI and Data Science professional passio
 * 🌍  I'm based in Chennai, Tamil Nadu
 * ✉️  You can contact me at [subashrcm61@gmail.com](mailto:subashrcm61@gmail.com)
 * 🧠  I'm learning Expanding my knowledge in AI, data science, and web development to create impactful solutions.
-* 🤝  I'm open to collaborating on AI and Data Science Projects: Leveraging Python, Machine Learning, and Data Analytics to solve real-world challenges. Web Development: Building user-friendly, responsive websites or applications using HTML, CSS, JavaScript, and React. Generative AI: Exploring creative applications of AI in art, content generation, or automation. Open Source Contributions: Contributing to impactful open-source projects or tools.
+* 🤝  I'm open to collaborating on 
+AI and Data Science Projects: Leveraging Python, Machine Learning, and Data Analytics to solve real-world challenges. 
+Web Development: Building user-friendly, responsive websites or applications using HTML, CSS, JavaScript, and React.
+ Generative AI: Exploring creative applications of AI in art, content generation, or automation. 
+Open Source Contributions: Contributing to impactful open-source projects or tools.
 
 ### Skills
 
